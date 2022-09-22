@@ -1,0 +1,9 @@
+- 👋 Hi, I’m @JacobNRomero
+- 👀 I’m interested in Math, Stats, Music, Data, Athletics.
+- 🌱 I’m currently learning Data Analytics, Data Science, Statistical Computing. 
+- 💞️ I’m looking to collaborate on Data Projects, Statistical Analyses of Data.
+- 📫 How to reach me ... 
+- 786-380-9093. 
+- Email: jacobnromero01@gmail.com. 
+- LinkedIn: www.linkedin.com/in/jacobromero26
+- [Romero.Resume.pdf](https://github.com/JacobNRomero/JacobNRomero/files/9628088/Romero.Resume.pdf)
