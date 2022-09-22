@@ -7,4 +7,4 @@
 - 786-380-9093
 - Email: jacobnromero01@gmail.com
 - LinkedIn: www.linkedin.com/in/jacobromero26
-- [Romero.Resume.pdf](https://github.com/JacobNRomero/JacobNRomero/files/9628088/Romero.Resume.pdf)
+- [Romero.Resume.pdf](https://github.com/JacobNRomero/JacobNRomero/files/9629157/Romero.Resume.pdf)
