@@ -2,6 +2,7 @@
 - 👀 I’m interested in Math, Stats, Music, Data, Athletics.
 - 🌱 I’m currently learning Data Analytics, Data Science, Statistical Computing. 
 - 💞️ I’m looking to collaborate on Data Projects, Statistical Analyses of Data.
+- Skills include proficiency in R, Python, Excel to load data sets, run tests, find significant variables, create visual plots, regression diagnostics, and build linear, logistic and Poisson regression models.
 - 📫 How to reach me ... 
 - 786-380-9093. 
 - Email: jacobnromero01@gmail.com. 
